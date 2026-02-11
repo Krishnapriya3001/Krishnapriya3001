@@ -20,5 +20,11 @@ SQL Enthusiast
 # Current Goal
 Improving DSA and building strong backend + AIML projects.
 
+# 2026 Goals
+improve DSA
+Build atleast 2 Strong Backend Projects
+Complete AIML Mini Project
+Crack Internship
+
 # Connect With Me
 - LinkedIn: www.linkedin.com/in/somarapu-krishnapriya-aa18ab34a
